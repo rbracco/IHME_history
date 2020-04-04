@@ -52,9 +52,13 @@ More below:
 
 We have captured the model's estimations for the following dates:
 
--3/29/2020
--3/30/2020
--3/31/2020
--4/1/2020
+- 3/29/2020  
+- 3/30/2020  
+- 3/31/2020  
+- 4/1/2020   
 
-We will capture data moving forward, but if you have access to the data releases from 3/26-3/29 please open an issue or [reach out on twitter](https://twitter.com/MadeUpMasters). 
+The next release is scheduled for Saturday April 4th. We will capture data moving forward, but if you have access to the data releases from 3/26-3/29 please open an issue or [reach out on twitter](https://twitter.com/MadeUpMasters). 
+
+### Parsing the data: 
+
+If you are a researcher or journalist without coding ability, and a cleaned and combined version of this data would be useful to you to judge the predictions, please [reach out on twitter](https://twitter.com/MadeUpMasters) and I'd be happy to help.
