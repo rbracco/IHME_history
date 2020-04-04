@@ -44,8 +44,8 @@ I and others have expressed grave concern that the model was released to local, 
 
 More below:
 
--[Rapid, unsolicited post-publication peer review by Prof. Carl Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616)
--[The IHME Covid19 model is dangerously flawed (Disclaimer: I am the author)](https://medium.com/@robertbracco1/the-ihme-covid19-model-is-dangerously-flawed-c19928464db1)
+- [Rapid, unsolicited post-publication peer review by Prof. Carl Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616)  
+- [The IHME Covid19 Model is Dangerously Flawed (Disclaimer: I am the author)](https://medium.com/@robertbracco1/the-ihme-covid19-model-is-dangerously-flawed-c19928464db1)
 
 
 ## Data:
