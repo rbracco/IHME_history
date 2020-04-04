@@ -2,6 +2,8 @@
 
 This is meant to keep a complete historical record of the predictions made by the [UW IHME Covid 19 Model](http://www.healthdata.org/covid). It is important that these records remain available to researchers and the general public so that we can know how well the model did and use this in the future to build better models.
 
+The files contained within the subfolders are in their original state and have not been altered in any way.
+
 ## About the IHME UW Model:
 
 The model was publicly released on Mar. 26th, 2020 without undergoing peer review. [Publication link](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf)
