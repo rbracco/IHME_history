@@ -30,9 +30,9 @@ The UW IHME model operated under the following assumptions (see pgs 8, 9 of the 
 
 #### Methodology:
 
-With these assumptions as a starting point, the authors developed a curve-fitting tool to fit a nonlinear mexed effects model to the available admin I cumulative death data. The cumulative death rate for each location is assumed to follow a parameterized Gaussian Error Function. The estimates are produced using an ensemble of two models with this design. 
+With these assumptions as a starting point, the authors developed a curve-fitting tool to fit a nonlinear mixed effects model to the available Admin I (China, Italy, South Korea, U.S.) cumulative death data. The cumulative death rate for each location is assumed to follow a parameterized Gaussian error function. The estimates are produced using an ensemble of two models with this design. 
 
-For the 23 states that were not yet beyond the threshold death rate of 0.31 per million (at time of model computation), estimations were made on when they were surpass this threshold based on the ratio of observed cases to deaths in the states that had already surpassed the threshold. 
+For the 23 states that were not yet beyond the threshold death rate of 0.31 per million (at time of model computation), estimations were made on when they would surpass this threshold based on the ratio of observed cases to deaths in the states that had already surpassed the threshold. 
 
 Hospital service utilization was calculated using a microsimulation model by using the average age pattern from Italy, China, South Korea and the US. Hospital stay duration was estimated using the median time found elsewhere. Patients over 75 years of age were assumed to have a stay of 10 days while those under 75 were assumed to have a stay of 8 days. 
 
