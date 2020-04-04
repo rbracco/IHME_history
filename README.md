@@ -4,7 +4,7 @@ This is meant to keep a complete historical record of the predictions made by th
 
 ## About the IHME UW Model:
 
-The model was publicly released on Mar. 26th, 2020 without undergoing peer review. Publication link: https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf
+The model was publicly released on Mar. 26th, 2020 without undergoing peer review. [Publication link](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf)
 
 ### Listed Authors: 
   - [Christopher J.L. Murray](http://www.healthdata.org/about/christopher-jl-murray)
@@ -20,7 +20,11 @@ The model was publicly released on Mar. 26th, 2020 without undergoing peer revie
 
 #### Core Assumptions: 
 
-The UW IHME model assumes that if the US follows 3 of the 4 following measures (school closures, closing non-essential services, shelter-in-place, and major travel restrictions) that they will "follow a trajectory similar to Wuhan, China". It assumes all US States will have implemented such policies by April 2nd. The authors chose not to include an increased mortality rate for Covid19 patients unable to receive medical care due to an healthcare system that is above capacity. 
+The UW IHME model operated under the following assumptions (see pgs 8, 9 of the [publication](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf)): 
+
+- If the US follows 3 of the 4 following measures (school closures, closing non-essential services, shelter-in-place, and major travel restrictions) that they will "follow a trajectory similar to Wuhan, China". 
+- It assumes all US States will have implemented such policies by April 2nd. 
+- It assumes the same mortality rate for situations where ICU care is available as when ICU care is being denied to some patients (when hospitals are overrun)  
 
 #### Methodology:
 
@@ -32,13 +36,15 @@ Hospital service utilization was calculated using a microsimulation model by usi
 
 ### Peer-review:
 
+No peer-review appears to have been solicited or conducted. It appears that a post-publication peer-review has not yet been sought. 
+
 ### Criticism:
 
 I and others have expressed grave concern that the model was released to local, state and federal governments with no peer-review. Furthermore it appears that there has been little or no attempt to inform the public and policymakers of the questionable assumptions that underpin the model. The abstract and model FAQ make no mention of the strong assumptions and they are only included in the final 2 pages of the paper.
 
 More below:
 
--[Rapid post-publication peer review by Prof. Carl Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616)
+-[Rapid, unsolicited post-publication peer review by Prof. Carl Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616)
 -[The IHME Covid19 model is dangerously flawed (Disclaimer: I am the author)](https://medium.com/@robertbracco1/the-ihme-covid19-model-is-dangerously-flawed-c19928464db1)
 
 
