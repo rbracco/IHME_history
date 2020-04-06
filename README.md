@@ -4,6 +4,10 @@ This is meant to keep a complete historical record of the predictions made by th
 
 The files contained within the subfolders are in their original state and have not been altered in any way.
 
+**Disclaimer: I personally downloaded the data from 3/29 forward, but the model estimates from before this data are user submitted and have not been verified in any way. Credit for the user-submitted estimates is as follows**:
+- 3/26: [Amanda Cox](https://github.com/m1arc00)
+- 3/27: [Amanda Cox](https://github.com/m1arc00)
+
 ## About the IHME UW Model:
 
 The model was publicly released on Mar. 26th, 2020 without undergoing peer review. [Publication link](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf)
@@ -54,12 +58,15 @@ More below:
 
 We have captured the model's estimations for the following dates:
 
+- 3/26/2020 (User-submitted, not yet verified)
+- 3/27/2020 (User-submitted, not yet verified)
 - 3/29/2020  
 - 3/30/2020  
 - 3/31/2020  
-- 4/1/2020   
+- 4/1/2020
+- 4/5/2020
 
-The next release is scheduled for Saturday April 4th. We will capture data moving forward, but if you have access to the data releases from 3/26-3/29 please open an issue or [reach out on twitter](https://twitter.com/MadeUpMasters). 
+We will capture data moving forward, but if you have access to a data release from 3/28 (if there was one) please open an issue, submit a PR, or [reach out on twitter](https://twitter.com/MadeUpMasters). 
 
 ### Parsing the data: 
 
