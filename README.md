@@ -2,6 +2,8 @@
 
 This is meant to keep a complete historical record of the predictions made by the [UW IHME Covid 19 Model](http://www.healthdata.org/covid). It is important that these records remain available to researchers and the general public so that we can know how well the model did and use this in the future to build better models.
 
+The files contained within the subfolders are in their original state and have not been altered in any way.
+
 ## About the IHME UW Model:
 
 The model was publicly released on Mar. 26th, 2020 without undergoing peer review. [Publication link](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1.full.pdf)
@@ -28,9 +30,9 @@ The UW IHME model operated under the following assumptions (see pgs 8, 9 of the 
 
 #### Methodology:
 
-With these assumptions as a starting point, the authors developed a curve-fitting tool to fit a nonlinear mexed effects model to the available admin I cumulative death data. The cumulative death rate for each location is assumed to follow a parameterized Gaussian Error Function. The estimates are produced using an ensemble of two models with this design. 
+With these assumptions as a starting point, the authors developed a curve-fitting tool to fit a nonlinear mixed effects model to the available Admin I (China, Italy, South Korea, U.S.) cumulative death data. The cumulative death rate for each location is assumed to follow a parameterized Gaussian error function. The estimates are produced using an ensemble of two models with this design. 
 
-For the 23 states that were not yet beyond the threshold death rate of 0.31 per million (at time of model computation), estimations were made on when they were surpass this threshold based on the ratio of observed cases to deaths in the states that had already surpassed the threshold. 
+For the 23 states that were not yet beyond the threshold death rate of 0.31 per million (at time of model computation), estimations were made on when they would surpass this threshold based on the ratio of observed cases to deaths in the states that had already surpassed the threshold. 
 
 Hospital service utilization was calculated using a microsimulation model by using the average age pattern from Italy, China, South Korea and the US. Hospital stay duration was estimated using the median time found elsewhere. Patients over 75 years of age were assumed to have a stay of 10 days while those under 75 were assumed to have a stay of 8 days. 
 
