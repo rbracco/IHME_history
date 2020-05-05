@@ -65,6 +65,16 @@ We have captured the model's estimations for the following dates:
 - 3/31/2020  
 - 4/1/2020
 - 4/5/2020
+- 4/7/2020
+- 4/9/2020
+- 4/12/2020
+- 4/16/2020
+- 4/20/2020
+- 4/21/2020
+- 4/26/2020
+- 4/27/2020
+- 4/28/2020
+- 5/4/2020
 
 We will capture data moving forward, but if you have access to a data release from 3/28 (if there was one) please open an issue, submit a PR, or [reach out on twitter](https://twitter.com/MadeUpMasters). 
 
